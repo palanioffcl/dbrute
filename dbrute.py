@@ -7,7 +7,7 @@ file = open(path, "r")
 
 for i in range():
    dir_name = file.readline()
-   r = requests.get(url+a)
+   r = requests.get(url+dir_name)
    stats = r.status_code
 
 if status == 200:

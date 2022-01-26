@@ -18,7 +18,7 @@ path = input("Enter Wordlist path :")
 
 file = open(path, "r")
 
-for i in range():
+for i in range(len(file)):
    wls = file.readline()
    r = requests.get(url+wls)
    stats = r.status_code

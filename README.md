@@ -1,20 +1,12 @@
 # dbrute
-```
-_____________________________________________________________________
- _______           __                              __               
-|       \         |  \                            |  \              
-| $$$$$$$\        | $$____    ______   __    __  _| $$_     ______  
-| $$  | $$ ______ | $$    \  /      \ |  \  |  \|   $$ \   /      \ 
-| $$  | $$|      \| $$$$$$$\|  $$$$$$\| $$  | $$ \$$$$$$  |  $$$$$$\
-| $$  | $$ \$$$$$$| $$  | $$| $$   \$$| $$  | $$  | $$ __ | $$    $$
-| $$__/ $$        | $$__/ $$| $$      | $$__/ $$  | $$|  \| $$$$$$$$
-| $$    $$        | $$    $$| $$       \$$    $$   \$$  $$ \$$     \
- \$$$$$$$          \$$$$$$$  \$$        \$$$$$$     \$$$$   \$$$$$$$
- _____________________________________Made by Try A9ain_________________ 
-```                                                                 
-                                                                    
-# Description
-This is a simple script written in python for Directory bruteforcing...
 
+# Description
+A simple  directory bruteforcing script written in python. Used in initial stages of recon.
+
+# Prerequisites
+  <code>pip install -r requirements.txt</code>
+
+# Usage
+  <code>./dbrute.py</code>
 _____________________________________
-<p align="center"> If you 💙 this dont forget to star this repo 😄 </p>
+<p align="center"> If you 💙 this don't forget to star this repo 🌟 </p>
